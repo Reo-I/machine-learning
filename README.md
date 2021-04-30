@@ -1,7 +1,6 @@
 # machine-learning
 
-``LDA.py``: Using Linear discriminant analysis toward images of digit numbers.
-this is 2 dimentinal clasification.
+``LDA.py``: Using Linear discriminant analysis toward images of digit numbers. This is a 2 dimentinal clasification.
 
 
 ``Gausian_Kernel_sparse.py`` : Estimating Linear Regression by using Gausian Kernel Model and a sparse regression.
