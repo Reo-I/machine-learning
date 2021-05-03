@@ -77,6 +77,5 @@ for i in range(3):
         plt.legend(loc = "upper right")
         #plt.title("Avg. loss:" + str(round(loss_list[count], 3)))
         count += 1
-#plt.savefig('lecture2-HW2.png')
 plt.show()
 
