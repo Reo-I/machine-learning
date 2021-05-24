@@ -1,5 +1,7 @@
 # machine-learning
 
+``Gaussian_Kernel_DensityEstimation.py``: Estimating the density of distribution with Gaussian Kernel. The width of kernel is chosen by the likelyhood cross validation. 
+
 ``Gaussian_Kernel_LSR.py``: Classifying the MNIST's images to 10 classes by using Gaussian Kernel Regression. This optimization is to mimize the least square loss.  
 
 ``Gaussian_Kernel_crossval.py``:Deciding hyper parameters of l_2 norm and width by using cross validation. 
