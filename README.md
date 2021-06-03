@@ -14,6 +14,6 @@
 
 ``LDA.py``: Conducting Linear Discriminant Analysis (LDA) to classify data from two different distribusions.
 
-`SVM.py``: Linear SVM implementation using gradient descent algorithm.
+``SVM.py``: Linear SVM implementation using gradient descent algorithm.
 
 
