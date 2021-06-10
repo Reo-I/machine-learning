@@ -55,6 +55,5 @@ for j in range(gausian_num):
     s +=Y
     plt.plot(X,Y,color='r')
 plt.plot(X,s,color='k')
-plt.savefig('lecture4-HW2.png')
 plt.show()
 
